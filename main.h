@@ -1,5 +1,5 @@
-#ifndef HEADER_HOLBERTON
-#define HEADER_HOLBERTON
+#ifndef HEADER_MAIN
+#define HEADER_MAIN
 #include <stdarg.h>
 int _putchar(char c);
 void _puts(char *str);
