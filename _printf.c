@@ -14,7 +14,11 @@ int _printf(const char *format, ...)
 	if (!format)
 		return (-1);
 
+<<<<<<< HEAD
 	va_start(arg, *format);
+=======
+	va_start(arg, format);
+>>>>>>> 991053e4b53cfc1a583aaff6158c5202f23061b2
 	string = format;
 
 	cont = loop_format(arg, string);
