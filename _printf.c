@@ -66,3 +66,4 @@ void print_buffer(char buffer[], int *buff_ind)
 
 	*buff_ind = 0;
 }
+/*******END OF TASK********/
